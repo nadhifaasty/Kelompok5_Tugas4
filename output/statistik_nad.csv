@@ -1,0 +1,9 @@
+Citra,Metode,Mask,Threshold,Jumlah piksel,Persentase (%),Rata-rata respons,Maks respons
+image 1,Deteksi titik,[-1 -1 -1; -1 8 -1; -1 -1 -1],931.54,307,0.1,74.35,1575.0
+image 2,Deteksi titik,[-1 -1 -1; -1 8 -1; -1 -1 -1],283.0,1161,0.1,16.17,924.0
+image 1,Garis horizontal,[-1 -1 -1; 2 2 2; -1 -1 -1],574.0,526,0.172,34.48,1125.0
+image 1,Garis vertikal,[-1 2 -1; -1 2 -1; -1 2 -1],574.0,999,0.326,46.42,1246.0
+image 2,Garis horizontal,[-1 -1 -1; 2 2 2; -1 -1 -1],135.0,2262,0.195,9.33,447.0
+image 2,Garis vertikal,[-1 2 -1; -1 2 -1; -1 2 -1],135.0,3489,0.3,8.25,744.0
+image 1,Prewitt,Gx dan Gy,514.45,3065,1.0,71.48,963.0
+image 2,Prewitt,Gx dan Gy,184.0,11620,0.999,21.35,749.0
